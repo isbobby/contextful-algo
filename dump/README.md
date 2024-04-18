@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dump site
+title: Dump
 permalink: /dump
 ---
 
